@@ -25,6 +25,13 @@
   ],
 
   "redirects": [
+    "src": { "pageName": "ghost" },
+
+"dest": { "layout": "FULL_DISCOURSE", "url": "/latest" }
+
+},
+    
+    
     {
       "src": { "pageName": "missio", "layout": "FULL_CLIENT" },
       "dest": {
