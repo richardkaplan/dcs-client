@@ -16,6 +16,7 @@
   },
 
   "staticPages": [
+    { "name": "ghost", "url": "index.html" },
     { "name": "home", "url": "index.html" },
     { "name": "missio", "url": "mission.html" },
     { "name": "aboutm", "url": "about-me.html" },
