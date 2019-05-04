@@ -35,27 +35,46 @@
 "dest": { "layout": "FULL_DISCOURSE", "url": "/latest" }
 
 },
-    
-    
-    {
-      "src": { "pageName": "missio", "layout": "FULL_CLIENT" },
-      "dest": {
-        "layout": "WITH_SPLIT_BAR",
-        "interactMode": "COMMENT",
-        "showRight": false
-      }
-    },
-    {
-      
-      "src": { "pageName": "ghost" },
 
-"dest": { "layout": "FULL_DISCOURSE", "url": "/latest" }
+{
 
-      "src": { "pageName": "aboutm", "layout": "FULL_CLIENT" },
-      "dest": {
-        "layout": "WITH_SPLIT_BAR",
-        "interactMode": "DISCUSS",
-        "showRight": false
+"src": {
+"pageName":
+"missio", 
+"layout": "FULL_CLIENT" },
+
+"dest": {
+
+"layout":
+"WITH_SPLIT_BAR",
+
+"interactMode":
+"COMMENT",
+
+"showRight":
+false
+
+}
+
+},
+
+{
+
+"src": {
+"pageName":
+"aboutm", 
+"layout": "FULL_CLIENT" },
+
+"dest": {
+
+"layout":
+"WITH_SPLIT_BAR",
+
+"interactMode":
+"DISCUSS",
+
+"showRight":
+false
       }
     }
   ],
