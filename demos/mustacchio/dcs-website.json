@@ -25,7 +25,9 @@
   ],
 
   "redirects": [
-    "src": { "pageName": "ghost" },
+    
+    
+    {"src": { "pageName": "ghost" },
 
 "dest": { "layout": "FULL_DISCOURSE", "url": "/latest" }
 
