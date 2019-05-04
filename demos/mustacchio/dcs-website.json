@@ -1,23 +1,21 @@
 {
   "$schema": "https://sylque.github.io/dcs-website-schema/json/schema.json",
 
-   "websiteName": "mustacchio",
+  "websiteName": "mustacchio",
 
-   "logo": {
+  "logo": {
     "logoUrl": "images/logo.jpg",
     "mobileLogoUrl": "images/logo.jpg",
     "smallLogoUrl": "images/logo.jpg"
   },
 
-   "dcsTag": {
+  "dcsTag": {
     "maxPageNameLength": 6,
     "maxTriggerIdLength": 9,
     "forceLowercase": true
   },
 
-   "proxyUrl": "http://headslap.me:7000",
-
-   "staticPages": [
+  "staticPages": [
     { "name": "home", "url": "index.html" },
     { "name": "missio", "url": "mission.html" },
     { "name": "aboutm", "url": "about-me.html" },
@@ -25,7 +23,7 @@
     { "name": "whitep", "url": "white-paper.html" }
   ],
 
-   "redirects": [
+  "redirects": [
     {
       "src": { "pageName": "missio", "layout": "FULL_CLIENT" },
       "dest": {
@@ -44,7 +42,7 @@
     }
   ],
 
-   "clientData": {
+  "clientData": {
     "decorator": {
       "injectTriggers": [
         {
