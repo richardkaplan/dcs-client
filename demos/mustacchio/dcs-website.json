@@ -3,11 +3,7 @@
 
   "websiteName": "mustacchio",
 
-  "logo": {
-    "logoUrl": "images/logo.jpg",
-    "mobileLogoUrl": "images/logo.jpg",
-    "smallLogoUrl": "images/logo.jpg"
-  },
+  
 
   "dcsTag": {
     "maxPageNameLength": 6,
