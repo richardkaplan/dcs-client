@@ -13,11 +13,11 @@
 
   "staticPages": [
     { "name": "ghost", "url": "index.html" },
-    { "name": "home", "url": "index.html" },
-    { "name": "missio", "url": "mission.html" },
-    { "name": "aboutm", "url": "about-me.html" },
-    { "name": "lastev", "url": "last-event.html" },
-    { "name": "whitep", "url": "white-paper.html" }
+    { "name": "home", "url": "https://f2c0820eabfa4329ad7dbb0cd77e0921.codepen.website/index.html" },
+    { "name": "missio", "url": "https://f2c0820eabfa4329ad7dbb0cd77e0921.codepen.website/mission.html" },
+    { "name": "aboutm", "url": "https://f2c0820eabfa4329ad7dbb0cd77e0921.codepen.website/about-me.html" },
+    { "name": "lastev", "url": "https://f2c0820eabfa4329ad7dbb0cd77e0921.codepen.website/last-event.html" },
+    { "name": "whitep", "url": "https://f2c0820eabfa4329ad7dbb0cd77e0921.codepen.website/white-paper.html" }
   ],
 
   "redirects": [
