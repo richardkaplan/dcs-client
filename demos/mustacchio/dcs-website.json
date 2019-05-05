@@ -17,7 +17,8 @@
     { "name": "missio", "url": "https://f2c0820eabfa4329ad7dbb0cd77e0921.codepen.website/mission.html" },
     { "name": "aboutm", "url": "https://f2c0820eabfa4329ad7dbb0cd77e0921.codepen.website/about-me.html" },
     { "name": "lastev", "url": "https://f2c0820eabfa4329ad7dbb0cd77e0921.codepen.website/last-event.html" },
-    { "name": "whitep", "url": "https://f2c0820eabfa4329ad7dbb0cd77e0921.codepen.website/white-paper.html" }
+    { "name": "whitep", "url": "https://f2c0820eabfa4329ad7dbb0cd77e0921.codepen.website/white-paper.html" },
+    { "name": "new","url":"https://discourse.reference.solutions/t/this-is-a-new-topic/362"}
   ],
 
   "redirects": [
